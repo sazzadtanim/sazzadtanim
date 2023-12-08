@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Sazzad Hossain (Tanim)</h1>
-<h3 align="center">A JavaScript from Bangladesh</h3>
+<h3 align="center">A JavaScript Developer from Bangladesh</h3>
 
 
 
