@@ -2,14 +2,17 @@
 <h3 align="center">A JavaScript Developer from Bangladesh</h3>
 
 
+## [My public projects](https://bento.me/sazzadtanim)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzadtanim&label=Profile%20views&color=0e75b6&style=flat" alt="sazzadtanim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzadtanim" alt="sazzadtanim" /></a> </p>
 
+- 🔭 I’m currently working on [unhackable wordpress](https://659d7e2289a0863110d9aa58--voluble-blancmange-590959.netlify.app/)
+  
 - 🔭 I’m currently working on [web scraping by puppeteer](https://nextjs-web-scraping-mauve.vercel.app/)
 
-- 🌱 I’m currently learning **svelte**
+- 🌱 I’m currently learning **PHP and WordPress**
 
 - 👯 I’m looking to collaborate on [langchain projects](https://langchain-memory.vercel.app/)
 
