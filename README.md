@@ -2,6 +2,8 @@
 <h3 align="center">A JavaScript Developer from Bangladesh</h3>
 
 
+## [My Website](https://sazzadtanim.pro)
+
 ## [My public projects](https://bento.me/sazzadtanim)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzadtanim&label=Profile%20views&color=0e75b6&style=flat" alt="sazzadtanim" /> </p>
