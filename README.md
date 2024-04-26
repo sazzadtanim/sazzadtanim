@@ -14,8 +14,6 @@
   
 - 🔭 I’m currently working on [web scraping by puppeteer](https://nextjs-web-scraping-mauve.vercel.app/)
 
-- 🌱 I’m currently learning **PHP and WordPress**
-
 - 👯 I’m looking to collaborate on [langchain projects](https://langchain-memory.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sazzadtanim](https://github.com/sazzadtanim)
